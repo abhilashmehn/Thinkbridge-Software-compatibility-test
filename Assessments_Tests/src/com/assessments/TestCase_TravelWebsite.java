@@ -44,6 +44,6 @@ public class TestCase_TravelWebsite {
 		//Click on "SignUp"
 		driver.findElement(By.xpath("//*[@id=\"content\"]/div/div[3]/div/section/div[1]/form/fieldset/div[5]/button")).click();
 		//Validate that you received an email
-		
+		//sorry, unaware of this
 	}
 }
